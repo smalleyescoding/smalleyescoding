@@ -1,8 +1,5 @@
-### Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=transparent&color=8B00FF&height=300&section=header&fontColor=8B00FF&text=smalleyescoding&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=8B00FF&height=300&section=header&fontColor=8B00FF&text=smalleyescoding&fontSize=64)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smalleyescoding&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smalleyescoding&layout=compact)](https://github.com/smalleyescoding/github-readme-stats)
 
 <!--
 **smalleyescoding/smalleyescoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
