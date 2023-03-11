@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=8B00FF&height=120&section=header&fontColor=8B00FF&text=smalleyescoding&fontSize=48&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=8B00FF&height=80&section=header&fontColor=8B00FF&text=smalleyescoding&fontSize=40&animation=fadeIn)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smalleyescoding&show_icons=true&theme=midnight-purple)
 
 <!--
