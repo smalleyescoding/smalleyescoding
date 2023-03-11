@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=8B00FF&height=80&section=header&fontColor=000000&text=smalleyescoding&fontSize=40&animation=fadeIn)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smalleyescoding&show_icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smalleyescoding&show_icons=true&theme=graywhite)
 
 <!--
 **smalleyescoding/smalleyescoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
