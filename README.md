@@ -1,4 +1,4 @@
-# Hi, I'm Jinho Lee 👋
+# Hi,&nbsp; I'm Jinho Lee 👋
 🧑🏻‍💻&nbsp;&nbsp; I'm working as <strong>Cross Platform Developer</strong>
 <br>
 <br>
@@ -11,7 +11,7 @@
 <br>
 <br>
   
-### Publishing
+### ☁️&nbsp; Publishing
 
 
 ![Android](https://img.shields.io/badge/AOS-00D8F7?style=for-the-badge&logo=Google%20Play&logoColor=FFFFFF)
@@ -21,7 +21,7 @@
 <br>
 <br>
   
-### Tech Stack
+### 🛠&nbsp; Tech Stack
   
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=FFFFFF)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF)
