@@ -1,12 +1,11 @@
-<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=d3d4d5&height=120&section=header&fontColor=000000&text=smalleyescoding&fontSize=40&animation=fadeIn)
 
-<br>
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmalleyescoding%2Fhit-counter&count_bg=%23858585&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)
+# Hi, I'm Jinho Lee 👋
+- I'm currently studying Flutter
  
-  
+<div align="center">
+
 <br>
 
   
@@ -45,5 +44,7 @@
   
 <br>
 <br>
-  
+<br>  
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmalleyescoding%2Fhit-counter&count_bg=%23858585&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)
 
