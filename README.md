@@ -1,6 +1,4 @@
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmalleyescoding%2Fhit-counter&count_bg=%23858585&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
-<br>
-<br>
+
 <br>
 # Hi,&nbsp; I'm Jinho Lee 👋
 
@@ -43,7 +41,7 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=FFFFFF)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=FFFFFF)
   
-
-
-
-
+<br>
+<br>
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmalleyescoding%2Fhit-counter&count_bg=%23858585&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
+<br>
