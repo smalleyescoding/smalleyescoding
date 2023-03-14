@@ -2,15 +2,15 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=d3d4d5&height=120&section=header&fontColor=000000&text=smalleyescoding&fontSize=40&animation=fadeIn)
 
 # Hi, I'm Jinho Lee 👋
-- I'm currently studying Flutter
+🧑🏻‍💻&nbsp;&nbsp; I'm working as <strong>Cross Platform Developer</strong>
+<br>
+<br>
+📚&nbsp; Currently, I'm studying <strong>Flutter</strong>
+
  
-<div align="center">
+
 
 <br>
-
-  
----
-  
 <br>
   
 ### Publishing
@@ -30,6 +30,7 @@
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=FFFFFF)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF)
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=FFFFFF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=FFFFFF)
@@ -46,5 +47,5 @@
 <br>
 <br>  
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmalleyescoding%2Fhit-counter&count_bg=%23858585&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmalleyescoding%2Fhit-counter&count_bg=%23858585&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 
