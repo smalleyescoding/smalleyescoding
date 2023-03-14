@@ -1,8 +1,10 @@
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=8B00FF&height=80&section=header&fontColor=000000&text=smalleyescoding&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=8B00FF&height=80&section=header&fontColor=000000&text=smalleyescoding&fontSize=40&animation=fadeIn)
 
 
 ----
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmalleyescoding%2Fhit-counter&count_bg=%23858585&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smalleyescoding&show_icons=true&theme=graywhite)
