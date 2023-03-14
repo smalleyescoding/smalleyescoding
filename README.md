@@ -13,12 +13,12 @@
 ### ☁️&nbsp; Publishing
 
 
-![Android](https://img.shields.io/badge/AOS-00D8F7?style=flat&logo=Google%20Play&logoColor=FFFFFF)
+![AOS](https://img.shields.io/badge/AOS-00D8F7?style=flat&logo=Google%20Play&logoColor=FFFFFF)
 ![iOS](https://img.shields.io/badge/iOS-0D96F6?style=flat&logo=App%20Store&logoColor=FFFFFF)
 ![Web](https://img.shields.io/badge/Web-DC392D?style=flat&logo=Google%20Chrome&logoColor=FFFFFF)
-  
+
 <br>
-  
+
 ### 🛠&nbsp; Tech Stack
   
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=FFFFFF)
@@ -41,7 +41,7 @@
   
 <br>
 <br>
-<br>  
+<br>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmalleyescoding%2Fhit-counter&count_bg=%23858585&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 
