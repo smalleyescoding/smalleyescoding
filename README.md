@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=d3d4d5&height=120&section=header&fontColor=000000&text=smalleyescoding&fontSize=40&animation=fadeIn)
 
 
-----
+
 
 ### Flutter Developer
 
