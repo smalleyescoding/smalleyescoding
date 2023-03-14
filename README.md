@@ -3,8 +3,9 @@
 <br>
 <br>
 📚&nbsp; Currently, I'm studying <strong>Flutter</strong>
-
- 
+<br>
+<br>
+👍&nbsp; I prefer <strong>Simple</strong> and <strong>User-friendly</strong> Design
 
 
 <br>
