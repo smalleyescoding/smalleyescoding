@@ -2,23 +2,28 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=d3d4d5&height=120&section=header&fontColor=000000&text=smalleyescoding&fontSize=40&animation=fadeIn)
 
-[![Instagram](https://img.shields.io/badge/Instagram-d3d4d5?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/smalleyescoding/)
-[![Gmail](https://img.shields.io/badge/smalleyescoding%40gmail.com-d3d4d5?style=for-the-badge&logo=Gmail&logoColor=EA4335)](mailto:smalleyescoding@gmail.com)
+<br>
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmalleyescoding%2Fhit-counter&count_bg=%23858585&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)
+ 
   
 <br>
+
   
 ---
   
 <br>
   
-### Cross Platform Developer
+### Publishing
 
 
 ![Android](https://img.shields.io/badge/AOS-00D8F7?style=for-the-badge&logo=Google%20Play&logoColor=FFFFFF)
 ![iOS](https://img.shields.io/badge/iOS-0D96F6?style=for-the-badge&logo=App%20Store&logoColor=FFFFFF)
 ![Web](https://img.shields.io/badge/Web-DC392D?style=for-the-badge&logo=Google%20Chrome&logoColor=FFFFFF)
+  
 <br>
 <br>
+  
 ### Tech Stack
   
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=FFFFFF)
@@ -36,8 +41,9 @@
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=FFFFFF)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=FFFFFF)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=FFFFFF)
   
 <br>
 <br>
   
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmalleyescoding%2Fhit-counter&count_bg=%23858585&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)
+
