@@ -7,8 +7,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmalleyescoding%2Fhit-counter&count_bg=%23858585&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smalleyescoding&show_icons=true&theme=graywhite)
-
 <!--
 **smalleyescoding/smalleyescoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
