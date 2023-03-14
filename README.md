@@ -1,5 +1,3 @@
-<br>
-
 # Hi,&nbsp; I'm Jinho Lee 👋
 
 🧑🏻‍💻&nbsp;&nbsp; I'm working as <strong>Cross Platform Developer</strong>
