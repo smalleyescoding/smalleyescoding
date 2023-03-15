@@ -7,9 +7,13 @@
 <br>
 
 👍&nbsp; I prefer <strong>Simple</strong> and <strong>User-friendly</strong> Design
-
 <br>
-  
+
+🏗&nbsp; I am interested in <strong>Clean Architecture</strong>
+<br>
+<br>
+<br>
+
 ### ☁️&nbsp; Publishing
 
 
