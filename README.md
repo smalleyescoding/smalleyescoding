@@ -3,7 +3,7 @@
 🧑🏻‍💻&nbsp;&nbsp; I'm working as <strong>Mobile App Developer</strong>
 <br>
 
-📚&nbsp; Currently, I'm studying <strong>Flutter</strong>
+📚&nbsp; Currently, I'm studying <strong>Flutter</strong>, <strong>Kotlin</strong>
 <br>
 
 👍&nbsp; I prefer <strong>Simple</strong> and <strong>User-friendly</strong> Design
