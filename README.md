@@ -1,6 +1,6 @@
 # Hi,&nbsp; I'm Jinho Lee 👋
 
-🧑🏻‍💻&nbsp;&nbsp; I'm working as <strong>Flutter Developer</strong>
+🧑🏻‍💻&nbsp;&nbsp; I'm working as <strong>Mobile App Developer</strong>
 <br>
 
 📚&nbsp; Currently, I'm studying <strong>Flutter</strong>
