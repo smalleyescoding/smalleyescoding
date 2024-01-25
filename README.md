@@ -1,5 +1,3 @@
-# Hi,&nbsp; I'm Jinho Lee 👋
-
 🧑🏻‍💻&nbsp;&nbsp; I'm working as <strong>Mobile App Developer</strong>
 <br>
 
