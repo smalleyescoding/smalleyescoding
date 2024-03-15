@@ -27,8 +27,6 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=FFFFFF)
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=FFFFFF)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=FFFFFF)
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=FFFFFF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=FFFFFF)
