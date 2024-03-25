@@ -24,12 +24,10 @@
 ### 🛠&nbsp; Tech Stack
   
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=FFFFFF)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=FFFFFF)
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=FFFFFF)
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=FFFFFF)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=FFFFFF)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=FFFFFF)
